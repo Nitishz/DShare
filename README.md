@@ -1,5 +1,5 @@
 # DShare
-## A file sharing Website where an User can login and upload any kind of files and also download files uploaded by other users
+## A file sharing Website where a User can login and upload any kind of files and also download files uploaded by other users
 
 ![image](https://user-images.githubusercontent.com/66010219/127270107-eb0a9003-344c-4160-93f0-c9c0448fef4e.png)
 ![image](https://user-images.githubusercontent.com/66010219/127270152-5f549988-cf73-471b-b1dd-9659da8728bc.png)
